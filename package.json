@@ -1,0 +1,27 @@
+{
+  "name": "typeracer-automater",
+  "version": "1.0.0",
+  "description": "don't type just click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szymonszymonszymonv/typeracer-automatizer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szymonszymonszymonv/typeracer-automatizer/issues"
+  },
+  "homepage": "https://github.com/szymonszymonszymonv/typeracer-automatizer#readme",
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^8.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
