@@ -20,7 +20,6 @@ function copyToClipboard (text) {
   document.execCommand('copy')
   document.body.removeChild(dummy)
 }
-copyToClipboard('Hello, World!')
 
 
 var full = returnText()
